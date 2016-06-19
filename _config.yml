@@ -25,14 +25,14 @@ sass:
 defaults:
   -
     scope:
-      path: "fheo18" 
+      path: fheo18
       type: "posts" 
     values:
       layout: "post"
       author: Gabriel Utterson
   -
     scope:
-      path: "fheo18" 
+      path: fheo18
       type: "pages" 
     values:
       layout: "page"
